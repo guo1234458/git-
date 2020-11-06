@@ -1,7 +1,7 @@
 $(function () {
   var layer = layui.layer
 
-  // 1.获取裁剪区域的 DOM 元素‘
+  // 1.获取裁剪区域的 DOM 元素
   var $image = $('#image')
   // 2.配置选项
   const options = {
